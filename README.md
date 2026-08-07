@@ -152,33 +152,6 @@ Downstream biological analysis
         ▼
 Figures and quantitative results
 ```
-
----
-
-# Software Requirements
-
-Most workflows require the following Python ecosystem:
-
-- Python ≥ 3.10
-- NumPy
-- SciPy
-- pandas
-- Scanpy
-- AnnData
-- POT
-- moscot
-- PyTorch
-- matplotlib
-- scikit-learn
-
-Several analyses additionally require:
-
-- R (for pathway enrichment)
-- COMMOT
-- DINO image encoder dependencies
-
-Please refer to the main repository installation guide for the complete software environment.
-
 ---
 
 # Directory Structure
